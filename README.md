@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An un-styled blog app with basic CRUD and commenting capabilities. Built as part of The Odin Project.
 
-Things you may want to cover:
+Updates for enhanced capabilities and improved formatting possible in the future, unless similar skills are demonstrated in another project.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby version 3.1.2. Rails version 7.1.1. SqLite3 version 3.37.2.
